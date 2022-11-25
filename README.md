@@ -5,7 +5,7 @@
 
 
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/divya-darshini-aa52431ba/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
 </div>
