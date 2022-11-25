@@ -19,7 +19,7 @@
 :wave: My name is Divya Darshini
 
 
-:mortar_board: Recent grad with a Bachelor of Information Technology (2022)
+:mortar_board: I've completed my Bachelor of Technology in IT from Puducherry Technological University
 
 :city_sunrise: I am from Pondicherry with a passion for extracting business focused insights from data 
 
